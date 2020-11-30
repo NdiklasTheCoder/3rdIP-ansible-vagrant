@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/CyVerse-Ansible/ansible-role-template.svg?branch=master)](https://travis-ci.org/CyVerse-Ansible/ansible-role-template)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-vagrant-blue.svg)](https://galaxy.ansible.com/CyVerse-Ansible/ansible-role-template/)    
+
 # Ansible folder & configuration
 
 * Ansible Instrumentation Steps
