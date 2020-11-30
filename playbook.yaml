@@ -13,7 +13,7 @@
     - initialise
     - backend
 
-- name: Install MongoDB 
+- name: Install MongoDB
   hosts: mongodb
   become: yes
   roles:
